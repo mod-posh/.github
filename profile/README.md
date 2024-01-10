@@ -7,3 +7,9 @@ In this organization, you will find repositories filled with C# or PowerShell co
 ## Contributing
 
 Feel free to fork any repository and submit pull requests to enhance its functionalities; for more details, please see the [Contributing Documention](CONTRIBUTING.md)
+
+## Where you can find the code
+
+| Powershell Gallery | Nuget.org |
+|-----------------|----------------|
+| [PowerShell Gallery Profile](https://www.powershellgallery.com/profiles/jeffpatton1971)| [Nuget.org Profile](https://www.nuget.org/profiles/jeffpatton1971) |
