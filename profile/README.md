@@ -1,12 +1,9 @@
-## Hi there 👋
+# Welcome to the mod-posh collection
 
-<!--
+## Overview
 
-**Here are some ideas to get you started:**
+In this organization, you will find repositories filled with C# or PowerShell code based in no small part on the code that can be found in the original [repo](https://github.com/jeffpatton1971/mod-posh). A lot of the code found there will ultimately wind up here, hopefully all grown up! In addition to that, you will also find my [LocalAutomation](https://github.com/mod-posh/LocalAutomaion) repo that contains skeletons for how many of my projects get set up. I'm also converting all that automation into discreet Github Actions that can be put together in your pipelines.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## Contributing
+
+Feel free to fork any repository and submit pull requests to enhance its functionalities; for more details, please see the [Contributing Documention](CONTRIBUTING.md)
