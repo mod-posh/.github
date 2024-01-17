@@ -13,3 +13,9 @@ Feel free to fork any repository and submit pull requests to enhance its functio
 | Powershell Gallery | Nuget.org |
 |-----------------|----------------|
 | [PowerShell Gallery Profile](https://www.powershellgallery.com/profiles/jeffpatton1971)| [Nuget.org Profile](https://www.nuget.org/profiles/jeffpatton1971) |
+
+## Where to find the Github Actions
+| Marketplace | Github |
+|-----------------|----------------|
+| [Issue2ReleaseNotes](https://github.com/marketplace/actions/generate-release-notes-from-milestone)| [Issue2ReleaseNotes](https://github.com/mod-posh/Issue2ReleaseNotes) |
+| [Post2BlueSky](https://github.com/marketplace/actions/post2bluesky)| [Post2BlueSky](https://github.com/mod-posh/Post2BlueSky) |
