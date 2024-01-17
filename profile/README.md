@@ -19,3 +19,4 @@ Feel free to fork any repository and submit pull requests to enhance its functio
 |-----------------|----------------|
 | [Issue2ReleaseNotes](https://github.com/marketplace/actions/generate-release-notes-from-milestone)| [Issue2ReleaseNotes](https://github.com/mod-posh/Issue2ReleaseNotes) |
 | [Post2BlueSky](https://github.com/marketplace/actions/post2bluesky)| [Post2BlueSky](https://github.com/mod-posh/Post2BlueSky) |
+| [NewTaggedRelease](https://github.com/marketplace/actions/newtaggedrelease) | [NewTaggedRelease](https://github.com/mod-posh/NewTaggedRelease) |
