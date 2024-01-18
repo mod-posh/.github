@@ -21,3 +21,4 @@ Feel free to fork any repository and submit pull requests to enhance its functio
 | Issue2Release | [MarketPlace](https://github.com/marketplace/actions/generate-release-notes-from-milestone) | [GitHub](https://github.com/mod-posh/Issue2ReleaseNotes) |
 | Post2BlueSky | [MarketPlace](https://github.com/marketplace/actions/post2bluesky) | [GitHub](https://github.com/mod-posh/Post2BlueSky) |
 | NewTaggedRelease | [MarketPlace](https://github.com/marketplace/actions/newtaggedrelease) | [GitHub](https://github.com/mod-posh/NewTaggedRelease) |
+| GetProjectVersion | [MarketPlace](https://github.com/marketplace/actions/getprojectversion) | [GitHub](https://github.com/mod-posh/GetProjectVersion) |
