@@ -22,3 +22,5 @@ Feel free to fork any repository and submit pull requests to enhance its functio
 | Post2BlueSky | [MarketPlace](https://github.com/marketplace/actions/post2bluesky) | [GitHub](https://github.com/mod-posh/Post2BlueSky) |
 | NewTaggedRelease | [MarketPlace](https://github.com/marketplace/actions/newtaggedrelease) | [GitHub](https://github.com/mod-posh/NewTaggedRelease) |
 | GetProjectVersion | [MarketPlace](https://github.com/marketplace/actions/getprojectversion) | [GitHub](https://github.com/mod-posh/GetProjectVersion) |
+| CreatePowerShellManifest | [MarketPlace](https://github.com/marketplace/actions/createpowershellmanifest) | [GitHub](https://github.com/mod-posh/CreatePowerShellManifest) |
+| CreatePowerShellModule | [MarketPlace](https://github.com/marketplace/actions/createpowershellmodule) | [GitHub](https://github.com/mod-posh/CreatePowerShellModule) |
