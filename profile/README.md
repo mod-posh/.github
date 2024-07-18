@@ -24,3 +24,4 @@ Feel free to fork any repository and submit pull requests to enhance its functio
 | GetProjectVersion | [MarketPlace](https://github.com/marketplace/actions/getprojectversion) | [GitHub](https://github.com/mod-posh/GetProjectVersion) |
 | CreatePowerShellManifest | [MarketPlace](https://github.com/marketplace/actions/createpowershellmanifest) | [GitHub](https://github.com/mod-posh/CreatePowerShellManifest) |
 | CreatePowerShellModule | [MarketPlace](https://github.com/marketplace/actions/createpowershellmodule) | [GitHub](https://github.com/mod-posh/CreatePowerShellModule) |
+| TestPowerShellModule | [MarketPlace](https://github.com/marketplace/actions/testpowershellmodule) | [GitHub](https://github.com/mod-posh/TestPowerShellModule) |
