@@ -10,9 +10,9 @@ Feel free to fork any repository and submit pull requests to enhance its functio
 
 ## Downloads
 
-| Powershell Gallery | Nuget.org |
-|-----------------|----------------|
-| [PowerShell Gallery Profile](https://www.powershellgallery.com/profiles/jeffpatton1971)| [Nuget.org Profile](https://www.nuget.org/profiles/jeffpatton1971) |
+| Powershell Gallery | Nuget.org | Azure DevOps Marketplace |
+|-----------------|----------------|----------------|
+| [PowerShell Gallery Profile](https://www.powershellgallery.com/profiles/jeffpatton1971)| [Nuget.org Profile](https://www.nuget.org/profiles/jeffpatton1971) | [Azure Devops Marketplace](https://marketplace.visualstudio.com/publishers/pattontech) |
 
 ## Where you can find the PowerShell Modules
 
