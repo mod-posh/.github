@@ -8,7 +8,26 @@ In this organization, you will find repositories filled with C# or PowerShell co
 
 Feel free to fork any repository and submit pull requests to enhance its functionalities; for more details, please see the [Contributing Documention](CONTRIBUTING.md)
 
-## Where you can find the code
+## Downloads
+
+| Powershell Gallery | Nuget.org |
+|-----------------|----------------|
+| [PowerShell Gallery Profile](https://www.powershellgallery.com/profiles/jeffpatton1971)| [Nuget.org Profile](https://www.nuget.org/profiles/jeffpatton1971) |
+
+## Where you can find the PowerShell Modules
+
+| Name | Version | PowerShell Gallery | Issues |
+|-----------------|----------------|-----------------|----------------|
+| [PoshMongo](https://github.com/poshmongo) | [![Latest Version](https://img.shields.io/github/v/tag/PoshMongo/PoshMongo)](https://github.com/PoshMongo/PoshMongo/tags) | [![Powershell Gallery](https://img.shields.io/powershellgallery/dt/PoshMongo)](https://www.powershellgallery.com/packages/PoshMongo) | [![GitHub issues](https://img.shields.io/github/issues/PoshMongo/PoshMongo)](https://github.com/PoshMongo/PoshMongo/issues) |
+| [AzDevOps](https://github.com/Azure-Devops-PowerShell-Module/AzDevOps) | [![Latest Version](https://img.shields.io/github/v/tag/Azure-Devops-PowerShell-Module/AzDevOps)](https://github.com/Azure-Devops-PowerShell-Module/AzDevOps/tags) | [![Powershell Gallery](https://img.shields.io/powershellgallery/dt/AzDevOps)](https://www.powershellgallery.com/packages/AzDevOps) | [![GitHub issues](https://img.shields.io/github/issues/Azure-Devops-PowerShell-Module/AzDevOps)](https://github.com/Azure-Devops-PowerShell-Module/AzDevOps/issues) |
+| [ComputerManagement](https://github.com/mod-posh/ComputerManagement) | ![Latest Version](https://img.shields.io/github/v/tag/mod-posh/ComputerManagement) | ![Powershell Gallery](https://img.shields.io/powershellgallery/dt/ComputerManagement) | [![GitHub issues](https://img.shields.io/github/issues/mod-posh/ComputerManagement)](https://github.com/mod-posh/ComputerManagement/issues) |
+| [Schema](https://github.com/SchemaModule/PowerShell) | [![Latest Version](https://img.shields.io/github/v/tag/SchemaModule/PowerShell)](https://github.com/SchemaModule/PowerShell/tags) | [![Powershell Gallery](https://img.shields.io/powershellgallery/dt/schema)](https://www.powershellgallery.com/packages/schema) | [![GitHub issues](https://img.shields.io/github/issues/SchemaModule/PowerShell)](https://github.com/SchemaModule/PowerShell/issues) |
+| [Pipelines](https://github.com/mod-posh/Pipelines) | [![Latest Version](https://img.shields.io/github/v/tag/mod-posh/Pipelines)](https://github.com/mod-posh/Pipelines/tags) | [![Powershell Gallery](https://img.shields.io/powershellgallery/dt/Pipelines)](https://www.powershellgallery.com/packages/Pipelines) | [![GitHub issues](https://img.shields.io/github/issues/mod-posh/Pipelines)](https://github.com/mod-posh/Pipelines/issues) |
+| [PoshAdoTask](https://github.com/PoshAdoTasks/PoshAdoTask) | [![Latest Version](https://img.shields.io/github/v/tag/PoshAdoTasks/PoshAdoTask)](https://github.com/PoshAdoTasks/PoshAdoTask/tags) | [![Powershell Gallery](https://img.shields.io/powershellgallery/dt/PoshAdoTask)](https://www.powershellgallery.com/packages/PoshAdoTask) | [![GitHub issues](https://img.shields.io/github/issues/PoshAdoTasks/PoshAdoTask)](https://github.com/PoshAdoTasks/PoshAdoTask/issues) |
+| [RetroSheetModule](https://github.com/RetrosheetPOSH/RetroSheetModule) | [![Latest Version](https://img.shields.io/github/v/tag/RetrosheetPOSH/RetroSheetModule)](https://github.com/RetrosheetPOSH/RetroSheetModule/tags) | [![Powershell Gallery](https://img.shields.io/powershellgallery/dt/RetroSheetModule)](https://www.powershellgallery.com/packages/RetroSheetModule) | [![GitHub issues](https://img.shields.io/github/issues/RetrosheetPOSH/RetroSheetModule)](https://github.com/RetrosheetPOSH/RetroSheetModule/issues) |
+| [SpnLibrary](https://github.com/mod-posh/SpnLibrary) | [![Latest Version](https://img.shields.io/github/v/tag/mod-posh/SpnLibrary)](https://github.com/mod-posh/SpnLibrary/tags) | [![Powershell Gallery](https://img.shields.io/powershellgallery/dt/SpnLibrary)](https://www.powershellgallery.com/packages/SpnLibrary) | [![GitHub issues](https://img.shields.io/github/issues/mod-posh/SpnLibrary)](https://github.com/mod-posh/SpnLibrary/issues) |
+
+## Where you can find the PowerShell Modules
 
 | Powershell Gallery | Nuget.org |
 |-----------------|----------------|
