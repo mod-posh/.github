@@ -27,11 +27,13 @@ Feel free to fork any repository and submit pull requests to enhance its functio
 | [RetroSheetModule](https://github.com/RetrosheetPOSH/RetroSheetModule) | [![Latest Version](https://img.shields.io/github/v/tag/RetrosheetPOSH/RetroSheetModule)](https://github.com/RetrosheetPOSH/RetroSheetModule/tags) | [![Powershell Gallery](https://img.shields.io/powershellgallery/dt/RetroSheetModule)](https://www.powershellgallery.com/packages/RetroSheetModule) | [![GitHub issues](https://img.shields.io/github/issues/RetrosheetPOSH/RetroSheetModule)](https://github.com/RetrosheetPOSH/RetroSheetModule/issues) |
 | [SpnLibrary](https://github.com/mod-posh/SpnLibrary) | [![Latest Version](https://img.shields.io/github/v/tag/mod-posh/SpnLibrary)](https://github.com/mod-posh/SpnLibrary/tags) | [![Powershell Gallery](https://img.shields.io/powershellgallery/dt/SpnLibrary)](https://www.powershellgallery.com/packages/SpnLibrary) | [![GitHub issues](https://img.shields.io/github/issues/mod-posh/SpnLibrary)](https://github.com/mod-posh/SpnLibrary/issues) |
 
-## Where you can find the PowerShell Modules
+## Where you can find the Libraries
 
-| Powershell Gallery | Nuget.org |
-|-----------------|----------------|
-| [PowerShell Gallery Profile](https://www.powershellgallery.com/profiles/jeffpatton1971)| [Nuget.org Profile](https://www.nuget.org/profiles/jeffpatton1971) |
+| Name | Version | Nuget | Issues |
+|-----------------|----------------|-----------------|----------------|
+| [Patton.GithubClient](https://github.com/GithubApiTools/GithubClient) | [![Latest Version](https://img.shields.io/github/v/tag/GithubApiTools/GithubClient)](https://github.com/GithubApiTools/GithubClient/tags) | [![Nuget Gallery](https://img.shields.io/nuget/dt/Patton.GithubClient)](https://www.nuget.org/packages/Patton.GithubClient/) | [![GitHub issues](https://img.shields.io/github/issues/GithubApiTools/GithubClient)](https://github.com/GithubApiTools/GithubClient/issues) |
+| [ModPosh.Logger](https://github.com/mod-posh/Logger) | [![Latest Version](https://img.shields.io/github/v/tag/mod-posh/Logger)](https://github.com/mod-posh/Logger/tags) | [![Nuget.org](https://img.shields.io/nuget/dt/ModPosh.Logger)](https://www.nuget.org/packages/ModPosh.Logger) | [![GitHub issues](https://img.shields.io/github/issues/mod-posh/Logger)](https://github.com/mod-posh/Logger/issues) |
+| [RetroSheet](https://github.com/RetrosheetPOSH/RetroSheet) | [![Latest Version](https://img.shields.io/github/v/tag/RetrosheetPOSH/RetroSheet)](https://github.com/RetrosheetPOSH/RetroSheet/tags) | [![Nuget Gallery](https://img.shields.io/nuget/dt/RetroSheet)](https://www.nuget.org/packages/RetroSheet/) | [![GitHub issues](https://img.shields.io/github/issues/RetrosheetPOSH/RetroSheet)](https://github.com/RetrosheetPOSH/RetroSheet/issues) |
 
 ## Where to find the Github Actions
 
