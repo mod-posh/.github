@@ -16,13 +16,13 @@ Feel free to fork any repository and submit pull requests to enhance its functio
 
 ## Where to find the Github Actions
 
-|  &nbsp; |  &nbsp; |  &nbsp; |
-|-----------------|----------------|----------------|
-| Issue2Release | [MarketPlace](https://github.com/marketplace/actions/generate-release-notes-from-milestone) | [GitHub](https://github.com/mod-posh/Issue2ReleaseNotes) |
-| Post2BlueSky | [MarketPlace](https://github.com/marketplace/actions/post2bluesky) | [GitHub](https://github.com/mod-posh/Post2BlueSky) |
-| NewTaggedRelease | [MarketPlace](https://github.com/marketplace/actions/newtaggedrelease) | [GitHub](https://github.com/mod-posh/NewTaggedRelease) |
-| GetProjectVersion | [MarketPlace](https://github.com/marketplace/actions/getprojectversion) | [GitHub](https://github.com/mod-posh/GetProjectVersion) |
-| CreatePowerShellManifest | [MarketPlace](https://github.com/marketplace/actions/create-powershell-manifest) | [GitHub](https://github.com/mod-posh/CreatePowerShellManifest) |
-| CreatePowerShellModule | [MarketPlace](https://github.com/marketplace/actions/create-powershell-module) | [GitHub](https://github.com/mod-posh/CreatePowerShellModule) |
-| TestPowerShellModule | [MarketPlace](https://github.com/marketplace/actions/test-powershell-module) | [GitHub](https://github.com/mod-posh/TestPowerShellModule) |
-| PublishPowerShellModule | [MarketPlace](https://github.com/marketplace/actions/publish-powershell-module-to-powershellgallery) | [GitHub](https://github.com/mod-posh/PublishPowerShellModule) |
+|  &nbsp; |  &nbsp; |  &nbsp; | &nbsp; |
+|-----------------|----------------|----------------|----------------|
+| Issue2Release | [MarketPlace](https://github.com/marketplace/actions/generate-release-notes-from-milestone) | [GitHub](https://github.com/mod-posh/Issue2ReleaseNotes) | [![GitHub issues](https://img.shields.io/github/issues/mod-posh/Issue2ReleaseNotes)](https://github.com/mod-posh/Issue2ReleaseNotes/issues) |
+| Post2BlueSky | [MarketPlace](https://github.com/marketplace/actions/post2bluesky) | [GitHub](https://github.com/mod-posh/Post2BlueSky) | [![GitHub issues](https://img.shields.io/github/issues/mod-posh/Post2BlueSky)](https://github.com/mod-posh/Post2BlueSky/issues) |
+| NewTaggedRelease | [MarketPlace](https://github.com/marketplace/actions/newtaggedrelease) | [GitHub](https://github.com/mod-posh/NewTaggedRelease) | [![GitHub issues](https://img.shields.io/github/issues/mod-posh/NewTaggedRelease)](https://github.com/mod-posh/NewTaggedRelease/issues) |
+| GetProjectVersion | [MarketPlace](https://github.com/marketplace/actions/getprojectversion) | [GitHub](https://github.com/mod-posh/GetProjectVersion) | [![GitHub issues](https://img.shields.io/github/issues/mod-posh/GetProjectVersion)](https://github.com/mod-posh/GetProjectVersion/issues) |
+| CreatePowerShellManifest | [MarketPlace](https://github.com/marketplace/actions/create-powershell-manifest) | [GitHub](https://github.com/mod-posh/CreatePowerShellManifest) | [![GitHub issues](https://img.shields.io/github/issues/mod-posh/CreatePowerShellManifest)](https://github.com/mod-posh/CreatePowerShellManifest/issues) |
+| CreatePowerShellModule | [MarketPlace](https://github.com/marketplace/actions/create-powershell-module) | [GitHub](https://github.com/mod-posh/CreatePowerShellModule) | [![GitHub issues](https://img.shields.io/github/issues/mod-posh/CreatePowerShellModule)](https://github.com/mod-posh/CreatePowerShellModule/issues) |
+| TestPowerShellModule | [MarketPlace](https://github.com/marketplace/actions/test-powershell-module) | [GitHub](https://github.com/mod-posh/TestPowerShellModule) | [![GitHub issues](https://img.shields.io/github/issues/mod-posh/TestPowerShellModule)](https://github.com/mod-posh/TestPowerShellModule/issues) |
+| PublishPowerShellModule | [MarketPlace](https://github.com/marketplace/actions/publish-powershell-module-to-powershellgallery) | [GitHub](https://github.com/mod-posh/PublishPowerShellModule) | [![GitHub issues](https://img.shields.io/github/issues/mod-posh/PublishPowerShellModule)](https://github.com/mod-posh/PublishPowerShellModule/issues) |
